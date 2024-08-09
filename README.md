@@ -1,4 +1,4 @@
-# CodSoft-Projects
+# CodSoft Machine Learning-Project
 🚀 My ML Internship at Codsoft GitHub Repo 🤖
 
 📂 Projects:
